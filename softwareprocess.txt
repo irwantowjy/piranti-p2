@@ -3,3 +3,6 @@ roles
 pre & post conditions
 agile process
 waterfall model 
+makan
+minum
+tidur
